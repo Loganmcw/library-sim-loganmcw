@@ -1,0 +1,1 @@
+INSERT INTO users (auth_id, user_id) VALUES ($1, $2)
